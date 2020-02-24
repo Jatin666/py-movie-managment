@@ -1,0 +1,7 @@
+#To make a console Based Movie Management Application. which will show the user
+#a main menu with option to Add movie, Display the list of previous movie
+#and quit the application. On Choosing an option the user should be able
+#to perform the functions. For adding movie in the program shoud ask the
+#user for multiple insertion.
+#The output Should be:
+# ---Movie Management System---
